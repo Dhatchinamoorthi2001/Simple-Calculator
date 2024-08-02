@@ -10,7 +10,7 @@ A basic calculator built using JavaScript, HTML, and CSS. This calculator can pe
 
 ## Demo
 
-You can view a live demo of the calculator(https://simplecalculator-calc.netlify.app).
+You can view a live demo of the calculator [here](https://simplecalculator-calc.netlify.app).
 
 ## Installation
 
@@ -42,5 +42,6 @@ You can view a live demo of the calculator(https://simplecalculator-calc.netlify
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 
-
 Happy calculating!
+
+
